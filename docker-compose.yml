@@ -1,6 +1,6 @@
 version: '2'
 services:
-  postfix-gmail-relay:
+  postfix-office365-relay:
     build: .
     environment:
       SYSTEM_TIMEZONE: "America/Sao_Paulo"
